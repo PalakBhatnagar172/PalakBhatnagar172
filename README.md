@@ -52,5 +52,6 @@
 <br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palakbhatnagar172&show_icons=true&locale=en" alt="palakbhatnagar172" /></p>
+<br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakbhatnagar172&" alt="palakbhatnagar172" /></p>
