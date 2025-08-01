@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Palak Bhatnagar</h1>
-<h3 align="center">Tech is the new trend !!</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=F7B536&center=true&width=435&lines=👋Hi%2C+I++am+Palak+Bhatnagar;Full+Stack+Developer;AI+%26+ML+Enthusiast;Creator%2C+Author+and+Mentor" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center">Code, Watch, Repeat!!</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
 
